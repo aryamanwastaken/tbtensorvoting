@@ -1,5 +1,7 @@
 # Automated tuberculosis interpretation using tensor voting
 
+`Team Members: Aryaman Patel, Dimitri Rodriguez`
+
 Applying tensor voting, a pattern recognition technique that allows you to automatically detect and classify patterns. We will test and evaluate the performance of this method on the Tuberculosis Image dataset from Kaggle.
 
 [Tuberculosis Image dataset](https://www.kaggle.com/datasets/saife245/tuberculosis-image-datasets)
